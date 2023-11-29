@@ -19,7 +19,7 @@
     }
   ],
   "paths": {
-    "/plants": {
+    "/kapitalisieren": {
       "get": {
         "description": "Returns all plants from the system that the user has access to",
         "parameters": [
@@ -96,7 +96,7 @@
         }
       }
     },
-    "/plants/{id}": {
+    "/kapitalisieren/{id}": {
       "delete": {
         "description": "Deletes a single plant based on the ID supplied",
         "parameters": [
